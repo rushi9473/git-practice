@@ -10,7 +10,7 @@ public class Test
 
 {
 
-    int r;
+    
    
 
 	public static void main(String[] args)
